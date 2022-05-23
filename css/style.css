@@ -684,13 +684,13 @@ nav {
 }
 
 .news_cards .slick-prev {
-  left: -1%;
+  left: -3%;
   -webkit-transform: rotate(180deg);
           transform: rotate(180deg);
 }
 
 .news_cards .slick-next {
-  right: -1%;
+  right: -2%;
 }
 
 .reviews {
